@@ -1,0 +1,4 @@
+{
+  "/api/vapi/generate/route": "app/api/vapi/generate/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
